@@ -20,7 +20,7 @@ app.listen(PORT, () => {
 //! NOTES
 //? new project in heroku w new db
 //? connect everything (dotenv, config, jawsdb w new info)
-// focus on models and relationships
+//? focus on models and relationships
 // focus on routes and db interaction
 // look at mini project for route examples
 
