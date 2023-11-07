@@ -49,19 +49,19 @@ THEN I am able to successfully create, update, and delete data in my database
 7. Heroku
 
 ## References
-1. UTA Bootcamp curriculum, instructor examples and student solved examples
+1. UTA Bootcamp curriculum, Module 13, instructor examples and student solved examples
 
 ## Links
 ### <a href="https://github.com/bmancuso3/e-commerce-back-end">GitHub Repository</a>
 
 ### <a href="https://bmancuso3.github.io/e-commerce-back-end">Live Site - Not Applicable</a>
 
-### <a href="https://drive.google.com/file/d/1r4sJ7SeQ8Ho1jMCjRZQ_o6aL_e70kV0K/view">Video Walk-Through</a>
+### <a href="https://drive.google.com/file/d/1PVCoL805ZWu2GAKj-78MVTrBQ_0rOwIV/view">Video Walk-Through</a>
 
 ## Preview
 
 ### EX1
-<img src='./images/functionality_preview.png' alt='EX1'/>
+N/A
 
 ## License
 <img src='https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge'>
